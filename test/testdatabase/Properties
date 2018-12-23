@@ -1,0 +1,8 @@
+DBConnectionString = jdbc:mysql://localhost:3306/emp?user=root&password=ankita@123&useUnicode=true&characterEncoding=UTF-8
+url = https://mail.google.com
+username = ankita.jangra@quovantis.com
+password = ankita@123
+query = select Emp_Age,Emp_Name from employee where Emp_Name like 'ankita%' ;
+dbColumn = Emp_Name
+
+
